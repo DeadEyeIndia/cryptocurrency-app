@@ -37,12 +37,11 @@ const App = () => {
               </Routes>
             </div>
           </Layout>
-          <div
-            className="footer"
-            level={5}
-            style={{ coloe: "white", textAlign: "center" }}
-          >
-            <Typography.Title>
+          <div className="footer">
+            <Typography.Title
+              level={5}
+              style={{ color: "white", textAlign: "center" }}
+            >
               Cryptoverse <br />
               All rights reserved
             </Typography.Title>
