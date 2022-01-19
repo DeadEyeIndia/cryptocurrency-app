@@ -47,9 +47,11 @@ const App = () => {
             </Typography.Title>
             <Space>
               <Link to="/">Home</Link>
-              <Link to="/exchanges">Exchanges</Link>
               <Link to="/news">News</Link>
             </Space>
+            <a href="https://www.linkedin.com/in/rahul-battin-728767207/">
+              About me
+            </a>
           </div>
         </div>
       </div>
