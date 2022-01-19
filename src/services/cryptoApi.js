@@ -2,7 +2,7 @@ import { createApi, fetchBaseQuery } from "@reduxjs/toolkit/query/react";
 
 const cryptoApiHeaders = {
   "x-rapidapi-host": "coinranking1.p.rapidapi.com",
-  "x-rapidapi-key": "8824d9debfmshaf1235dbc8b1d9bp10ffe3jsne220bf886224",
+  "x-rapidapi-key": "c09c6c7d60mshd1ee797fc74d2e0p128827jsn07a5f2a5b2f3",
 };
 
 const baseUrl = "https://coinranking1.p.rapidapi.com";
@@ -46,6 +46,6 @@ export const {
 //   },
 //   headers: {
 //     "x-rapidapi-host": "coinranking1.p.rapidapi.com",
-//     "x-rapidapi-key": "8824d9debfmshaf1235dbc8b1d9bp10ffe3jsne220bf886224",
+//     "x-rapidapi-key": "c09c6c7d60mshd1ee797fc74d2e0p128827jsn07a5f2a5b2f3",
 //   },
 // };
